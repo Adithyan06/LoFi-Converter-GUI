@@ -2,4 +2,3 @@ streamlit
 pedalboard==0.7.5
 soundfile==0.12.1
 yt-dlp==2024.3.10
-pip install --upgrade pip
